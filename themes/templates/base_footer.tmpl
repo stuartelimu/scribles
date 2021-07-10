@@ -1,0 +1,10 @@
+## -*- coding: utf-8 -*-
+
+<%def name="html_footer()">
+    %if content_footer:
+        <footer class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+            <p>${content_footer}</p>
+            ${template_hooks['page_footer']()}
+        </footer>
+    %endif
+</%def>

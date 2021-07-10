@@ -1,0 +1,7 @@
+[Theme]
+engine = mako
+parent = base
+author = Stuart Elimu
+author_url = stuartelimu.github.io
+based_on = Primer for Jekyll <https://pages-themes.github.io/primer/>
+license = MIT

@@ -1,0 +1,44 @@
+.postpromonav .pager .next::after, .archivenav .pager .next::after {
+	content: " →";
+}
+
+.postpromonav .pager .next, .archivenav .pager .next {
+	float: right;
+}
+
+#menu ul, #menu ul li, .postpromonav .tags, .postpromonav .tags li, .pager, .pager li, #toptranslations ul, #toptranslations ul li {
+	list-style: none;
+}
+
+.postpromonav {
+	margin-top: 1em;
+	padding: .5em 0;
+}
+
+.postpromonav .pager .previous, .archivenav .pager .previous {
+	float: left;
+}
+
+.postpromonav .pager .previous::before, .archivenav .pager .previous::before {
+	content: "← ";
+}
+
+.postpromonav .pager {
+	padding-left: 0;
+}
+
+#menu ul li, #toptranslations ul li {
+	display: inline-block;
+	margin-right: 1.5em;
+}
+
+#menu ul, #menu ul li, .postpromonav .tags, .postpromonav .tags li, .pager, .pager li, #toptranslations ul, #toptranslations ul li {
+	list-style: none;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+#menu ul, #menu ul li {
+	padding-left: 0;
+	padding-right: 0;
+}
