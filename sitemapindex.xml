@@ -7,46 +7,46 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://example.com/authors/nikola-tesla.xml</loc>
-  <lastmod>2021-07-10T09:40:00Z</lastmod>
+  <lastmod>2021-07-10T10:02:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://example.com/authors/roberto-alsina.xml</loc>
-  <lastmod>2021-07-10T09:40:00Z</lastmod>
+  <lastmod>2021-07-10T10:02:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://example.com/categories/blog.xml</loc>
-  <lastmod>2021-07-10T09:40:00Z</lastmod>
+  <lastmod>2021-07-10T10:02:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://example.com/categories/cat_nikola.xml</loc>
-  <lastmod>2021-07-10T09:40:00Z</lastmod>
+  <lastmod>2021-07-10T10:02:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://example.com/categories/demo.xml</loc>
-  <lastmod>2021-07-10T09:40:00Z</lastmod>
+  <lastmod>2021-07-10T10:02:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://example.com/categories/nikola.xml</loc>
-  <lastmod>2021-07-10T09:40:00Z</lastmod>
+  <lastmod>2021-07-10T10:02:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://example.com/categories/python.xml</loc>
-  <lastmod>2021-07-10T09:40:00Z</lastmod>
+  <lastmod>2021-07-10T10:02:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://example.com/galleries/demo/rss.xml</loc>
-  <lastmod>2021-07-10T09:40:00Z</lastmod>
+  <lastmod>2021-07-10T10:02:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://example.com/galleries/rss.xml</loc>
-  <lastmod>2021-07-10T09:40:00Z</lastmod>
+  <lastmod>2021-07-10T10:02:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://example.com/rss.xml</loc>
-  <lastmod>2021-07-10T09:40:00Z</lastmod>
+  <lastmod>2021-07-10T10:02:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://example.com/sitemap.xml</loc>
-  <lastmod>2021-07-10T09:40:00Z</lastmod>
+  <lastmod>2021-07-10T10:02:00Z</lastmod>
  </sitemap>
 </sitemapindex>
