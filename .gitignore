@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Nikola
+cache
+.doit.db
+__pycache__
+output
